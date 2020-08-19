@@ -43,6 +43,11 @@
   </url>
   
   <url>
+    <loc>https://eqsci.mit.edu/tecto/tag/earthquake-source/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://eqsci.mit.edu/tecto/author/gaspard-farge/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
@@ -74,11 +79,6 @@
   
   <url>
     <loc>https://eqsci.mit.edu/tecto/publication/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eqsci.mit.edu/tecto/tag/source-physics/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -119,11 +119,6 @@
   
   <url>
     <loc>https://eqsci.mit.edu/tecto/author/jean-pierre-villotte/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eqsci.mit.edu/tecto/tag/megathrust/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -218,7 +213,7 @@
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/tecto/tag/matched-filter/</loc>
+    <loc>https://eqsci.mit.edu/tecto/tag/high-performance-computing/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -308,6 +303,16 @@
   </url>
   
   <url>
+    <loc>https://eqsci.mit.edu/tecto/tag/aftershocks/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/tecto/tag/afterslip/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://eqsci.mit.edu/tecto/author/allen-l-husker/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -358,7 +363,7 @@
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/tecto/tag/rate-and-state/</loc>
+    <loc>https://eqsci.mit.edu/tecto/tag/rate-state-friction/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -443,11 +448,6 @@
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/tecto/tag/hpc/</loc>
-    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://eqsci.mit.edu/tecto/tag/cascadia/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
   </url>
@@ -468,7 +468,7 @@
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/tecto/tag/parkfield/</loc>
+    <loc>https://eqsci.mit.edu/tecto/tag/san-andreas/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -523,12 +523,12 @@
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/tecto/project/fmf/</loc>
+    <loc>https://eqsci.mit.edu/tecto/software/fmf/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/tecto/project/</loc>
+    <loc>https://eqsci.mit.edu/tecto/software/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
