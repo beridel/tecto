@@ -523,12 +523,52 @@
   </url>
   
   <url>
+    <loc>https://eqsci.mit.edu/tecto/research/2015_nsf_earpf/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/tecto/research/2018_rsnz_slowslip/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/tecto/research/2018_scec_sjfz/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/tecto/research/2019_nsf_lfe/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/tecto/research/2019_tj_slowslip/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/tecto/research/2020_nasa_insar/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/tecto/research/2020_usgs_virginia/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://eqsci.mit.edu/tecto/software/fmf/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://eqsci.mit.edu/tecto/software/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/tecto/research/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -675,6 +715,10 @@
   <url>
     <loc>https://eqsci.mit.edu/tecto/publication/frank-2013/</loc>
     <lastmod>2013-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/tecto/author/ayako-tsuchiyama/</loc>
   </url>
   
   <url>
