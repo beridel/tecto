@@ -21,12 +21,45 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eqsci.mit.edu/tecto/publication-type/2/</loc>
-    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eqsci.mit.edu/tecto/tag/aftershocks/</loc>
-    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
+    <loc>https://eqsci.mit.edu/tecto/tag/antarctica/</loc>
+    <lastmod>2022-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eqsci.mit.edu/tecto/author/aurelien-mordret/</loc>
+    <lastmod>2022-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eqsci.mit.edu/tecto/authors/</loc>
+    <lastmod>2022-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eqsci.mit.edu/tecto/publication/mikesell-2022/</loc>
+    <lastmod>2022-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eqsci.mit.edu/tecto/publication_types/</loc>
+    <lastmod>2022-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eqsci.mit.edu/tecto/publication/</loc>
+    <lastmod>2022-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eqsci.mit.edu/tecto/tag/structure/</loc>
+    <lastmod>2022-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eqsci.mit.edu/tecto/tags/</loc>
+    <lastmod>2022-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eqsci.mit.edu/tecto/author/thomas-dylan-mikesell/</loc>
+    <lastmod>2022-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eqsci.mit.edu/tecto/tag/volcano/</loc>
+    <lastmod>2022-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eqsci.mit.edu/tecto/author/william-b.-frank/</loc>
+    <lastmod>2022-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eqsci.mit.edu/tecto/author/zongbo-xu/</loc>
+    <lastmod>2022-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eqsci.mit.edu/tecto/tag/aftershocks/</loc>
     <lastmod>2022-03-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eqsci.mit.edu/tecto/tag/clustering/</loc>
@@ -44,25 +77,13 @@
     <loc>https://eqsci.mit.edu/tecto/author/piero-poli/</loc>
     <lastmod>2022-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eqsci.mit.edu/tecto/publication_types/</loc>
-    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://eqsci.mit.edu/tecto/publication/</loc>
-    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://eqsci.mit.edu/tecto/tag/statistics/</loc>
-    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://eqsci.mit.edu/tecto/tags/</loc>
     <lastmod>2022-03-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eqsci.mit.edu/tecto/publication/cabrera-2022/</loc>
     <lastmod>2022-03-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eqsci.mit.edu/tecto/tag/triggering/</loc>
-    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://eqsci.mit.edu/tecto/author/william-b.-frank/</loc>
     <lastmod>2022-03-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eqsci.mit.edu/tecto/publication/aden-2022/</loc>
@@ -297,9 +318,6 @@
     <lastmod>2018-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eqsci.mit.edu/tecto/publication/frank-2018-b/</loc>
-    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://eqsci.mit.edu/tecto/tag/volcano/</loc>
     <lastmod>2018-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eqsci.mit.edu/tecto/publication/perfettini-2018/</loc>

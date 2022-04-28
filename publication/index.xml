@@ -5,12 +5,20 @@
     <link>https://eqsci.mit.edu/tecto/publication/</link>
       <atom:link href="https://eqsci.mit.edu/tecto/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 07 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eqsci.mit.edu/tecto/images/logo.svg</url>
       <title>Publications</title>
       <link>https://eqsci.mit.edu/tecto/publication/</link>
     </image>
+    
+    <item>
+      <title>Crustal structure across the West Antarctic rift system from multicomponent ambient noise surface wave tomography</title>
+      <link>https://eqsci.mit.edu/tecto/publication/mikesell-2022/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/tecto/publication/mikesell-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Tracking the Spatio-Temporal Evolution of Foreshocks Preceding the Mw 6.1 2009 L’Aquila Earthquake</title>
