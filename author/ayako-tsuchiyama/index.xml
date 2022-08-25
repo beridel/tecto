@@ -5,12 +5,21 @@
     <link>https://eqsci.mit.edu/tecto/author/ayako-tsuchiyama/</link>
       <atom:link href="https://eqsci.mit.edu/tecto/author/ayako-tsuchiyama/index.xml" rel="self" type="application/rss+xml" />
     <description>Ayako Tsuchiyama</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eqsci.mit.edu/tecto/images/logo.svg</url>
       <title>Ayako Tsuchiyama</title>
       <link>https://eqsci.mit.edu/tecto/author/ayako-tsuchiyama/</link>
     </image>
+    
+    <item>
+      <title>Repeating earthquakes</title>
+      <link>https://eqsci.mit.edu/tecto/research/example/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/tecto/research/example/</guid>
+      <description>&lt;p&gt;Repeating earthquakes are cool.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

@@ -626,6 +626,14 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>People</title>
+      <link>https://eqsci.mit.edu/tecto/people/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/tecto/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Updip and along-strike aftershock migration model driven by afterslip: application to the 2011 Tohoku-Oki aftershock sequence</title>
       <link>https://eqsci.mit.edu/tecto/publication/perfettini-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -728,6 +736,15 @@ The highly parallel architecture of GPUs lends itself perfectly to the matched-f
 FMF allows for seismic network-based matched-filtering between a large set of template waveforms and a large continuous dataset in a reasonable amount of time.
 Such fast run times are an important step in expanding the scope of earthquake detection and fostering the reproducibility of such studies.&lt;/p&gt;
 &lt;p&gt;If you use FMF in your own research, please reference the above article.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Repeating earthquakes</title>
+      <link>https://eqsci.mit.edu/tecto/research/example/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/tecto/research/example/</guid>
+      <description>&lt;p&gt;Repeating earthquakes are cool.&lt;/p&gt;
 </description>
     </item>
     
