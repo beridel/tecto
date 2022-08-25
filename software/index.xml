@@ -5,7 +5,7 @@
     <link>https://eqsci.mit.edu/tecto/software/</link>
       <atom:link href="https://eqsci.mit.edu/tecto/software/index.xml" rel="self" type="application/rss+xml" />
     <description>Software</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Dec 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eqsci.mit.edu/tecto/images/logo.svg</url>
       <title>Software</title>
@@ -15,7 +15,7 @@
     <item>
       <title>FastMatchedFilter (FMF)</title>
       <link>https://eqsci.mit.edu/tecto/software/fmf/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
       <guid>https://eqsci.mit.edu/tecto/software/fmf/</guid>
       <description>&lt;p&gt;Matched-filter searches are an important tool in modern seismology to detect seismic events.
 They operate via an algorithm that computes the correlation coefficient between a template event and a sliding window of continuous seismic records.
