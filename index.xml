@@ -758,6 +758,28 @@ Such fast run times are an important step in expanding the scope of earthquake d
     </item>
     
     <item>
+      <title>Slow earthquakes</title>
+      <link>https://eqsci.mit.edu/tecto/research/slow_earthquakes/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/tecto/research/slow_earthquakes/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Earthquake sciences changed significantly in the past decades with, in particular, the discovery of slow-deformation processes in addition to ordinary earthquakes.  Those slow earthquakes play a major role in the earthquake cycle, but their physical mechanisms remain poorly understood. New methods and multi-disciplinary focused studies allow us now to expand our frontier in slow earthquake science complexity and diversity. We use geophysical methods such as InSAR analysis, geodetic solutions, and seismic catalogs as our main research tools to explore this field.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;subdaily-dynamics-of-slow-slip&#34;&gt;Subdaily dynamics of slow slip&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Reproducing geodetic aseismic fault slip from low-frequency earthquake time history at high sampling rates&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Slow slip events were first discovered in the early 2000s as a long-lasting release of energy visible on continuous surface motion as a reverse of the direction of motion of the GNSS station. While slow slip events are still mostly observed using GNSS surface motion, geodetic measurement only capture their long spatial- and temporal-wavelength behavior. Low-frequency earthquakes, small repeating earthquakes on the plate boundary, are often spatiotemporally correlated with slow slip, giving us the opportunity to explore slow slip dynamics at shorter time scales. Many studies highlighted the existence of a short time scale component in the complex dynamics of slow slip events using both seismic and geodetic datasets. Here, we are focusing our research on two main questions: (1) To what extent can we use low-frequency earthquake activity history to learn about slow slip short time scale dynamics? (2) What is the relationship between the aseismic slip observed by geodetic observables and the seismic slip associated with low-frequency earthquakes?&lt;/p&gt;
+&lt;p&gt;We explore those questions by creating a simple fault slip model driven by the time history of low-frequency earthquakes at both daily and subdaily time scales to reproduce the geodetic record of a large slow slip cycle in Guerrero, Mexico. This simple approach shows that a non-linear relationship is needed between the aseismic and seismic fault slip to represent all the different phases of this slow slip cycle. Also, long-term loading rates on the order of plate convergence are necessary for our models to fit well the geodetic fault slip, implying 100% coupling on the plate interface at short time scales.&lt;/p&gt;
+&lt;h2 id=&#34;interaction-with-earthquakes&#34;&gt;Interaction with earthquakes&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Sous-sous-titre: blabla&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Blabla Louise&lt;/p&gt;
+&lt;h2 id=&#34;role-in-seismic-cycle&#34;&gt;Role in seismic cycle&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Sous-sous-titre: blabla&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Blabla Louise &amp;amp; caro&lt;/p&gt;
+&lt;h2 id=&#34;structure-of-the-plate-interface&#34;&gt;Structure of the plate interface&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Sous-sous-titre: blabla&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Blabla Qingyu&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Academic: the website builder for Hugo</title>
       <link>https://eqsci.mit.edu/tecto/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
