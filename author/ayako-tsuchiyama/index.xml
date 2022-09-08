@@ -5,12 +5,45 @@
     <link>https://eqsci.mit.edu/tecto/author/ayako-tsuchiyama/</link>
       <atom:link href="https://eqsci.mit.edu/tecto/author/ayako-tsuchiyama/index.xml" rel="self" type="application/rss+xml" />
     <description>Ayako Tsuchiyama</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 08 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eqsci.mit.edu/tecto/images/logo.svg</url>
       <title>Ayako Tsuchiyama</title>
       <link>https://eqsci.mit.edu/tecto/author/ayako-tsuchiyama/</link>
     </image>
+    
+    <item>
+      <title>Intermediate-depth earthquakes</title>
+      <link>https://eqsci.mit.edu/tecto/research/intermediate-depth_earthquakes/</link>
+      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/tecto/research/intermediate-depth_earthquakes/</guid>
+      <description>&lt;p&gt;How deep do earthquakes occur on Earth? Deep earthquakes, generally defined as earthquakes
+deeper than 70 km, are generated in a deeper portion of subduction slabs where the extremely
+high pressures and temperatures make frictional slip unlikely. Seismicity in the deep Earth can
+provide essential information on the physical processes that control fluid distribution within the
+mantle, yet the mechanism of deep earthquakes is still enigmatic.&lt;/p&gt;
+&lt;p&gt;Deep earthquakes are categorized into two groups depending on the depth. Intermediate-depth
+earthquakes generally occur at the depth range of 70-300 km, then deep-focus earthquakes
+continue from 300 km.&lt;/p&gt;
+&lt;p&gt;In our research group, we focus on intermediate-depth earthquakes in Colombia. The region
+shows “a nest of earthquakes” where intermediate-depth earthquakes densely occur within the
+10-km cube. The Bucaramanga Nest in Colombia is one of the most productive areas of
+intermediate-depth earthquakes on Earth. We are curious about the mechanism of triggering
+many earthquakes in a limited volume within subduction slabs.&lt;/p&gt;
+&lt;p&gt;Currently, we are working on building a systematic catalog of earthquakes in the Bucaramanga
+Nest. The goal of our initial project is to detect smaller events that have not been identified in the
+original catalog by SGC to understand the background seismicity. After completing the catalog
+making, we will work on spectral analyses to find differences between regular earthquakes in
+shallow regions, slow-slip events in subduction zones, and other deep earthquakes in different
+regions. By comparing the source spectra, we will identify the fundamental mechanism of deep
+earthquakes.&lt;/p&gt;
+&lt;p&gt;Ayako was previously working on deep-focus earthquakes in Japan. After joining William’s
+group, she widely pursues her curiosity about deep earthquakes. She considers a key to revealing
+the mechanism of deep earthquakes buried in not only subduction zones on Earth but also other
+planetary bodies such as the Moon, Mars, and even Titan. All those planets have/will have
+installed man-made seismometers, and she hopes to work on those seismic data in the future.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Repeating earthquakes</title>
