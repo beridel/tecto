@@ -71,6 +71,15 @@
     <loc>https://eqsci.mit.edu/tecto/tags/</loc>
     <lastmod>2022-08-06T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://eqsci.mit.edu/tecto/tag/new-paper/</loc>
+    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eqsci.mit.edu/tecto/post/paper_wimez_2022/</loc>
+    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eqsci.mit.edu/tecto/post/</loc>
+    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://eqsci.mit.edu/tecto/publication/wimez-2022/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -269,9 +278,6 @@
     <loc>https://eqsci.mit.edu/tecto/publication/beauce-2019/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eqsci.mit.edu/tecto/post/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://eqsci.mit.edu/tecto/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -292,12 +298,6 @@
   </url><url>
     <loc>https://eqsci.mit.edu/tecto/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://eqsci.mit.edu/tecto/author/admin/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://eqsci.mit.edu/tecto/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eqsci.mit.edu/tecto/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
@@ -437,35 +437,14 @@
     <loc>https://eqsci.mit.edu/tecto/author/qingyu-wang/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eqsci.mit.edu/tecto/post/example_news/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://eqsci.mit.edu/tecto/research/slow_earthquakes/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eqsci.mit.edu/tecto/tag/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://eqsci.mit.edu/tecto/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://eqsci.mit.edu/tecto/categories/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://eqsci.mit.edu/tecto/category/demo/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://eqsci.mit.edu/tecto/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://eqsci.mit.edu/tecto/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://eqsci.mit.edu/tecto/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://eqsci.mit.edu/tecto/publication/frank-2016-a/</loc>
     <lastmod>2016-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eqsci.mit.edu/tecto/categories/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url><url>
     <loc>https://eqsci.mit.edu/tecto/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
