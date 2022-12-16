@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rania | Tectonophysics</title>
+    <link>https://eqsci.mit.edu/tecto/author/rania/</link>
+      <atom:link href="https://eqsci.mit.edu/tecto/author/rania/index.xml" rel="self" type="application/rss+xml" />
+    <description>rania</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://eqsci.mit.edu/tecto/images/logo.svg</url>
+      <title>rania</title>
+      <link>https://eqsci.mit.edu/tecto/author/rania/</link>
+    </image>
+    
+    <item>
+      <title>Rania Milki joins the group</title>
+      <link>https://eqsci.mit.edu/tecto/post/join_rania_jan2023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/tecto/post/join_rania_jan2023/</guid>
+      <description>
+
+
+&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
+&lt;p&gt;Rania Milki, an undergraduate student on exchange from Imperial College London, is going to join the Tectonophysics research group this January. She will be working on detecting and locating tectonic tremor with machine learning.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
