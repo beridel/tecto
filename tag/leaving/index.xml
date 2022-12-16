@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leaving | Tectonophysics</title>
+    <link>https://eqsci.mit.edu/tecto/tag/leaving/</link>
+      <atom:link href="https://eqsci.mit.edu/tecto/tag/leaving/index.xml" rel="self" type="application/rss+xml" />
+    <description>Leaving</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://eqsci.mit.edu/tecto/images/logo.svg</url>
+      <title>Leaving</title>
+      <link>https://eqsci.mit.edu/tecto/tag/leaving/</link>
+    </image>
+    
+    <item>
+      <title>Léonard is moving to Paris</title>
+      <link>https://eqsci.mit.edu/tecto/post/leave_seydoux_aug2022/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/tecto/post/leave_seydoux_aug2022/</guid>
+      <description>
+
+
+&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://eqsci.mit.edu/tecto/author/leonard-s.-seydoux/&#34;&gt;Léonard&lt;/a&gt; is leaving our group at the end of the summer to start as an Assistant Professor at the &lt;a href=&#34;https://www.ipgp.fr&#34;&gt;Institut de Physique du Globe de Paris&lt;/a&gt;!&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mathilde is moving to Alaska</title>
+      <link>https://eqsci.mit.edu/tecto/post/leave_wimez_may2022/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/tecto/post/leave_wimez_may2022/</guid>
+      <description>
+
+
+&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://eqsci.mit.edu/tecto/author/mathilde-wimez/&#34;&gt;Mathilde&lt;/a&gt; is leaving our group at the end of the spring semester to start as a Field Technician at the &lt;a href=&#34;https://earthquake.alaska.edu&#34;&gt;Alaska Earthquake Center&lt;/a&gt;!&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

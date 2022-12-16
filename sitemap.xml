@@ -20,6 +20,21 @@
     <loc>https://eqsci.mit.edu/tecto/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://eqsci.mit.edu/tecto/tag/conferences/</loc>
+    <lastmod>2022-11-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eqsci.mit.edu/tecto/post/</loc>
+    <lastmod>2022-11-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eqsci.mit.edu/tecto/tags/</loc>
+    <lastmod>2022-11-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eqsci.mit.edu/tecto/post/meeting_japan_sep2022/</loc>
+    <lastmod>2022-11-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eqsci.mit.edu/tecto/post/meeting_nasa_nov2022/</loc>
+    <lastmod>2022-11-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://eqsci.mit.edu/tecto/authors/</loc>
     <lastmod>2022-09-08T00:00:00+00:00</lastmod>
   </url><url>
@@ -68,16 +83,13 @@
     <loc>https://eqsci.mit.edu/tecto/tag/synthetics/</loc>
     <lastmod>2022-08-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eqsci.mit.edu/tecto/tags/</loc>
-    <lastmod>2022-08-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://eqsci.mit.edu/tecto/tag/new-paper/</loc>
     <lastmod>2022-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eqsci.mit.edu/tecto/post/paper_wimez_2022/</loc>
+    <loc>https://eqsci.mit.edu/tecto/post/paper_wimez_nov2022/</loc>
     <lastmod>2022-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eqsci.mit.edu/tecto/post/</loc>
+    <loc>https://eqsci.mit.edu/tecto/post/talk_maubant_nov2022/</loc>
     <lastmod>2022-06-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eqsci.mit.edu/tecto/publication/wimez-2022/</loc>
@@ -113,6 +125,9 @@
     <loc>https://eqsci.mit.edu/tecto/publication/mikesell-2022/</loc>
     <lastmod>2022-04-27T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://eqsci.mit.edu/tecto/post/paper_mikesell_jul2022/</loc>
+    <lastmod>2022-04-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://eqsci.mit.edu/tecto/tag/structure/</loc>
     <lastmod>2022-04-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -131,6 +146,9 @@
     <loc>https://eqsci.mit.edu/tecto/author/leoncio-cabrera/</loc>
     <lastmod>2022-03-07T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://eqsci.mit.edu/tecto/post/paper_cabrera_mar2022/</loc>
+    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://eqsci.mit.edu/tecto/author/piero-poli/</loc>
     <lastmod>2022-03-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -139,6 +157,9 @@
   </url><url>
     <loc>https://eqsci.mit.edu/tecto/publication/cabrera-2022/</loc>
     <lastmod>2022-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eqsci.mit.edu/tecto/post/paper_aden_feb2022/</loc>
+    <lastmod>2022-02-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eqsci.mit.edu/tecto/publication/aden-2022/</loc>
     <lastmod>2022-02-01T00:00:00+00:00</lastmod>
@@ -175,6 +196,9 @@
   </url><url>
     <loc>https://eqsci.mit.edu/tecto/author/xyoli-perez-campos/</loc>
     <lastmod>2021-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eqsci.mit.edu/tecto/post/paper_husker_mar2022/</loc>
+    <lastmod>2021-10-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eqsci.mit.edu/tecto/tag/afterslip/</loc>
     <lastmod>2021-07-21T00:00:00+00:00</lastmod>
@@ -277,9 +301,6 @@
   </url><url>
     <loc>https://eqsci.mit.edu/tecto/publication/beauce-2019/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://eqsci.mit.edu/tecto/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eqsci.mit.edu/tecto/author/german-a-prieto/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
@@ -443,24 +464,6 @@
     <loc>https://eqsci.mit.edu/tecto/publication/frank-2016-a/</loc>
     <lastmod>2016-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eqsci.mit.edu/tecto/categories/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://eqsci.mit.edu/tecto/post/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://eqsci.mit.edu/tecto/tag/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://eqsci.mit.edu/tecto/category/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://eqsci.mit.edu/tecto/tag/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://eqsci.mit.edu/tecto/tag/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url><url>
     <loc>https://eqsci.mit.edu/tecto/author/chunquan-wu/</loc>
     <lastmod>2015-06-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -508,6 +511,14 @@
   </url><url>
     <loc>https://eqsci.mit.edu/tecto/publication/frank-2013/</loc>
     <lastmod>2013-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eqsci.mit.edu/tecto/categories/</loc>
+  </url><url>
+    <loc>https://eqsci.mit.edu/tecto/tag/leaving/</loc>
+  </url><url>
+    <loc>https://eqsci.mit.edu/tecto/post/leave_seydoux_aug2022/</loc>
+  </url><url>
+    <loc>https://eqsci.mit.edu/tecto/post/leave_wimez_may2022/</loc>
   </url><url>
     <loc>https://eqsci.mit.edu/tecto/author/yichen-geng/</loc>
   </url>
