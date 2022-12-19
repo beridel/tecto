@@ -46,22 +46,9 @@ installed man-made seismometers, and she hopes to work on those seismic data in 
     </item>
     
     <item>
-      <title>Volcanoes</title>
-      <link>https://eqsci.mit.edu/tecto/research/volcanoes/</link>
-      <pubDate>Tue, 09 Aug 2022 09:00:00 +0000</pubDate>
-      <guid>https://eqsci.mit.edu/tecto/research/volcanoes/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Reliable forecasts of volcanic activity rely on observations of where magma is stored within the lithosphere and how it migrates from its mantle source towards the surface. Over the last decade, conceptual models of magma storage have shifted from a single long-lived magma chamber to a vertically extensive, structurally complex, and rapidly evolving plumbing system. This complexity emphasizes the need for detailed images of magma storage, as well as continuous monitoring of magma transport. We are developing new observational methods to capture the 4D evolution of active magmatic plumbing systems.&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;seismic-monitoring-of-magmatic-systems&#34;&gt;Seismic Monitoring of Magmatic Systems&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Measuring seismic velocity changes from the magma source to the surface&lt;/em&gt;&lt;/strong&gt;
-Most volcanic activity is driven by influx of melt from the mantle, but geophysical methods like seismic velocity monitoring are often only sensitive to the uppermost crust. Furthermore, few earthquakes occur in the lower crust and most magma transport is aseismic, so our observations of active processes at the roots of magmatic systems are sparse. We developed a seismic monitoring method based on teleseismic receiver functions which can sense velocity changes throughout the crust and does not require local sources.&lt;/p&gt;
-&lt;p&gt;We applied this receiver function monitoring approach to a quiescent period at Mount St. Helens. Taking advantage of the subduction zone setting of the volcano, our strategy is to measure the volcano&amp;rsquo;s response to periodic external forcing from slow slip events on the Cascadia megathrust. The idea is that magma-rich materials will be weaker and more sensitive to external forcing, so measuring the velocity change can act as a probe for the rheology of different parts of the magmatic plumbing system. We plan to apply this method next to an active volcano with mutliple instrumented eruptions. This will allow us to track magma transport and storage from the mantle source to the upper crustal magma chambers. Our goal is to gain new insight into deep magma transport and storage, and to link these processes to signs of impending eruptions.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Slow earthquakes</title>
       <link>https://eqsci.mit.edu/tecto/research/slow_earthquakes/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
       <guid>https://eqsci.mit.edu/tecto/research/slow_earthquakes/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Earthquake sciences changed significantly in the past decades with, in particular, the discovery of slow-deformation processes in addition to ordinary earthquakes.  Those slow earthquakes play a major role in the earthquake cycle, but their physical mechanisms remain poorly understood. New methods and multi-disciplinary focused studies allow us now to expand our frontier in slow earthquake science complexity and diversity. We use geophysical methods such as InSAR analysis, geodetic solutions, and seismic catalogs as our main research tools to explore this field.&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;subdaily-dynamics-of-slow-slip&#34;&gt;Subdaily dynamics of slow slip&lt;/h2&gt;
@@ -78,6 +65,19 @@ Most volcanic activity is driven by influx of melt from the mantle, but geophysi
 &lt;h2 id=&#34;structure-of-the-plate-interface&#34;&gt;Structure of the plate interface&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;Sous-sous-titre: blabla&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Blabla Qingyu&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Volcanoes</title>
+      <link>https://eqsci.mit.edu/tecto/research/volcanoes/</link>
+      <pubDate>Tue, 09 Aug 2022 09:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/tecto/research/volcanoes/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Reliable forecasts of volcanic activity rely on observations of where magma is stored within the lithosphere and how it migrates from its mantle source towards the surface. Over the last decade, conceptual models of magma storage have shifted from a single long-lived magma chamber to a vertically extensive, structurally complex, and rapidly evolving plumbing system. This complexity emphasizes the need for detailed images of magma storage, as well as continuous monitoring of magma transport. We are developing new observational methods to capture the 4D evolution of active magmatic plumbing systems.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;seismic-monitoring-of-magmatic-systems&#34;&gt;Seismic Monitoring of Magmatic Systems&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Measuring seismic velocity changes from the magma source to the surface&lt;/em&gt;&lt;/strong&gt;
+Most volcanic activity is driven by influx of melt from the mantle, but geophysical methods like seismic velocity monitoring are often only sensitive to the uppermost crust. Furthermore, few earthquakes occur in the lower crust and most magma transport is aseismic, so our observations of active processes at the roots of magmatic systems are sparse. We developed a seismic monitoring method based on teleseismic receiver functions which can sense velocity changes throughout the crust and does not require local sources.&lt;/p&gt;
+&lt;p&gt;We applied this receiver function monitoring approach to a quiescent period at Mount St. Helens. Taking advantage of the subduction zone setting of the volcano, our strategy is to measure the volcano&amp;rsquo;s response to periodic external forcing from slow slip events on the Cascadia megathrust. The idea is that magma-rich materials will be weaker and more sensitive to external forcing, so measuring the velocity change can act as a probe for the rheology of different parts of the magmatic plumbing system. We plan to apply this method next to an active volcano with mutliple instrumented eruptions. This will allow us to track magma transport and storage from the mantle source to the upper crustal magma chambers. Our goal is to gain new insight into deep magma transport and storage, and to link these processes to signs of impending eruptions.&lt;/p&gt;
 </description>
     </item>
     
