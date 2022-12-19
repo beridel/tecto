@@ -5,26 +5,12 @@
     <link>https://eqsci.mit.edu/tecto/post/</link>
       <atom:link href="https://eqsci.mit.edu/tecto/post/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 16 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eqsci.mit.edu/tecto/images/logo.svg</url>
       <title>News</title>
       <link>https://eqsci.mit.edu/tecto/post/</link>
     </image>
-    
-    <item>
-      <title>Mathilde Radiguet visiting during the spring</title>
-      <link>https://eqsci.mit.edu/tecto/post/visit_radiguet_jan2023/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://eqsci.mit.edu/tecto/post/visit_radiguet_jan2023/</guid>
-      <description>
-
-
-&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
-&lt;p&gt;&lt;a href=&#34;https://eqsci.mit.edu/tecto/author/mathilde-radiguet/&#34;&gt;Mathilde&lt;/a&gt; will be visiting us as Fulbright Fellow and a Visiting Scientist from January until July. We&#39;re excited to have her here!&lt;/p&gt;
-&lt;/div&gt;
-</description>
-    </item>
     
     <item>
       <title>Rania Milki joins the group</title>
@@ -56,6 +42,18 @@
     
     <item>
       <title>Tectonophysics at the NASA Solid Earth Team meeting!</title>
+      <link>https://eqsci.mit.edu/tecto/post/meeting_cargese_oct2022/</link>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/tecto/post/meeting_cargese_oct2022/</guid>
+      <description>
+&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://eqsci.mit.edu/tecto/author/william-b.-frank/&#34;&gt;William&lt;/a&gt; went to the 12th edition of the &lt;a href=&#34;https://statsei12.sciencesconf.org&#34;&gt;Statistical Seismology International Conference&lt;/a&gt; and gave one of two keynote lectures&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tectonophysics at the NASA Solid Earth Team meeting!</title>
       <link>https://eqsci.mit.edu/tecto/post/meeting_nasa_nov2022/</link>
       <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
       <guid>https://eqsci.mit.edu/tecto/post/meeting_nasa_nov2022/</guid>
@@ -73,7 +71,7 @@
       <guid>https://eqsci.mit.edu/tecto/post/meeting_japan_sep2022/</guid>
       <description>
 &lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
-&lt;p&gt;&lt;a href=&#34;https://eqsci.mit.edu/tecto/author/ayako-tsuchiyama/&#34;&gt;Ayako&lt;/a&gt; and &lt;a href=&#34;https://eqsci.mit.edu/tecto/author/caroline-mouchon/&#34;&gt;Caroline&lt;/a&gt; went to the Slow-to-Fast Earthquakes workshop in Nara (Japan), an international workshop organized by Tokyo University to gather scientists specialised in Fast and &lt;a href=&#34;https://eqsci.mit.edu/tecto/research/slow_earthquakes/&#34;&gt;Slow Earthquakes&lt;/a&gt;. &lt;a href=&#34;https://eqsci.mit.edu/tecto/author/ayako-tsuchiyama/&#34;&gt;Ayako&lt;/a&gt; presented a poster about &lt;a href=&#34;https://eqsci.mit.edu/tecto/research/intermediate-depth_earthquakes/&#34;&gt;Intermediate-depth earthquakes&lt;/a&gt; and &lt;a href=&#34;https://eqsci.mit.edu/tecto/author/caroline-mouchon/&#34;&gt;Caroline&lt;/a&gt; gave a 15-minutes talk about Slow slip events in Mexico. Liam, Roos and Yudong, graduate students of Camilla Cattania&#39;s &lt;a href=&#34;https://eqsci.mit.edu/camcat/&#34;&gt;Fault Mechanics group&lt;/a&gt;, also attended this meeting and presented posters.&lt;/p&gt;
+	&lt;p&gt;&lt;a href=&#34;https://eqsci.mit.edu/tecto/author/ayako-tsuchiyama/&#34;&gt;Ayako&lt;/a&gt; and &lt;a href=&#34;https://eqsci.mit.edu/tecto/author/caroline-mouchon/&#34;&gt;Caroline&lt;/a&gt; went to the Slow-to-Fast Earthquakes workshop in Nara (Japan), an international workshop organized by Tokyo University to gather scientists specialised in Fast and &lt;a href=&#34;https://eqsci.mit.edu/tecto/research/slow_earthquakes/&#34;&gt;Slow Earthquakes&lt;/a&gt;. &lt;a href=&#34;https://eqsci.mit.edu/tecto/author/ayako-tsuchiyama/&#34;&gt;Ayako&lt;/a&gt; presented a poster about &lt;a href=&#34;https://eqsci.mit.edu/tecto/research/intermediate-depth_earthquakes/&#34;&gt;Intermediate-depth earthquakes&lt;/a&gt; and &lt;a href=&#34;https://eqsci.mit.edu/tecto/author/caroline-mouchon/&#34;&gt;Caroline&lt;/a&gt; gave a 15-minutes talk about &lt;a href=&#34;https://eqsci.mit.edu/tecto/research/slow-earthquakes/&#34;&gt;Slow slip events&lt;/a&gt; in Mexico. Liam, Roos and Yudong, graduate students of Camilla Cattania&#39;s &lt;a href=&#34;https://eqsci.mit.edu/camcat/&#34;&gt;Fault Mechanics group&lt;/a&gt;, also attended this meeting and presented posters.&lt;/p&gt;
 &lt;/div&gt;
 </description>
     </item>
