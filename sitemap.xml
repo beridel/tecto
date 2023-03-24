@@ -20,8 +20,44 @@
     <loc>https://eqsci.mit.edu/tecto/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://eqsci.mit.edu/tecto/publication-type/2/</loc>
+    <lastmod>2023-03-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://eqsci.mit.edu/tecto/authors/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eqsci.mit.edu/tecto/publication/bryan-2023/</loc>
+    <lastmod>2023-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eqsci.mit.edu/tecto/author/jared-bryan/</loc>
+    <lastmod>2023-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eqsci.mit.edu/tecto/tag/optimal-transport/</loc>
+    <lastmod>2023-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eqsci.mit.edu/tecto/author/pascal-audet/</loc>
+    <lastmod>2023-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eqsci.mit.edu/tecto/publication_types/</loc>
+    <lastmod>2023-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eqsci.mit.edu/tecto/publication/</loc>
+    <lastmod>2023-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eqsci.mit.edu/tecto/tag/receiver-functions/</loc>
+    <lastmod>2023-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eqsci.mit.edu/tecto/tag/seismic-monitoring/</loc>
+    <lastmod>2023-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eqsci.mit.edu/tecto/tag/synthetics/</loc>
+    <lastmod>2023-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eqsci.mit.edu/tecto/tags/</loc>
+    <lastmod>2023-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eqsci.mit.edu/tecto/author/william-b.-frank/</loc>
+    <lastmod>2023-03-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eqsci.mit.edu/tecto/tag/joining/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
@@ -33,9 +69,6 @@
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eqsci.mit.edu/tecto/post/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://eqsci.mit.edu/tecto/tags/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eqsci.mit.edu/tecto/author/rania-milki/</loc>
@@ -65,19 +98,10 @@
     <loc>https://eqsci.mit.edu/tecto/post/meeting_nasa_nov2022/</loc>
     <lastmod>2022-11-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eqsci.mit.edu/tecto/author/william-b.-frank/</loc>
-    <lastmod>2022-11-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://eqsci.mit.edu/tecto/publication-type/2/</loc>
-    <lastmod>2022-10-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://eqsci.mit.edu/tecto/tag/ambient-noise/</loc>
     <lastmod>2022-10-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eqsci.mit.edu/tecto/author/chengxin-jiang/</loc>
-    <lastmod>2022-10-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://eqsci.mit.edu/tecto/author/jared-bryan/</loc>
     <lastmod>2022-10-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eqsci.mit.edu/tecto/author/kurama-okubo/</loc>
@@ -89,16 +113,7 @@
     <loc>https://eqsci.mit.edu/tecto/publication/yang-2022/</loc>
     <lastmod>2022-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eqsci.mit.edu/tecto/publication_types/</loc>
-    <lastmod>2022-10-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://eqsci.mit.edu/tecto/publication/</loc>
-    <lastmod>2022-10-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://eqsci.mit.edu/tecto/tag/review/</loc>
-    <lastmod>2022-10-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://eqsci.mit.edu/tecto/tag/seismic-monitoring/</loc>
     <lastmod>2022-10-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eqsci.mit.edu/tecto/author/timothy-clements/</loc>
@@ -141,9 +156,6 @@
     <lastmod>2022-08-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eqsci.mit.edu/tecto/publication/yuan-2021/</loc>
-    <lastmod>2022-08-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://eqsci.mit.edu/tecto/tag/synthetics/</loc>
     <lastmod>2022-08-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eqsci.mit.edu/tecto/author/mathilde-wimez/</loc>
