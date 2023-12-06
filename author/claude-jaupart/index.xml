@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Claude Jaupart | Tectonophysics</title>
+    <link>https://eqsci.mit.edu/tecto/author/claude-jaupart/</link>
+      <atom:link href="https://eqsci.mit.edu/tecto/author/claude-jaupart/index.xml" rel="self" type="application/rss+xml" />
+    <description>Claude Jaupart</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eqsci.mit.edu/tecto/images/logo.svg</url>
+      <title>Claude Jaupart</title>
+      <link>https://eqsci.mit.edu/tecto/author/claude-jaupart/</link>
+    </image>
+    
+    <item>
+      <title>Along-strike segmentation of seismic tremor and its relationship with the hydraulic structure of the subduction fault zone</title>
+      <link>https://eqsci.mit.edu/tecto/publication/farge-2023/</link>
+      <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/tecto/publication/farge-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
