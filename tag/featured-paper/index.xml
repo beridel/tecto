@@ -5,12 +5,24 @@
     <link>https://eqsci.mit.edu/tecto/tag/featured-paper/</link>
       <atom:link href="https://eqsci.mit.edu/tecto/tag/featured-paper/index.xml" rel="self" type="application/rss+xml" />
     <description>Featured paper</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eqsci.mit.edu/tecto/images/logo.svg</url>
       <title>Featured paper</title>
       <link>https://eqsci.mit.edu/tecto/tag/featured-paper/</link>
     </image>
+    
+    <item>
+      <title>Paper from Qingyu Wang featured in MIT News!</title>
+      <link>https://eqsci.mit.edu/tecto/post/news_wang_may2024/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/tecto/post/news_wang_may2024/</guid>
+      <description>
+&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
+    &lt;p&gt;&lt;a href=&#34;https://eqsci.mit.edu/tecto/author/qingyu-wang/&#34;&gt;Qingyu&lt;/a&gt;&#39;s recent &lt;a href=&#34;https://eqsci.mit.edu/tecto/publication/wang-2024/&#34;&gt;paper&lt;/a&gt; has been featured in MIT News. Go and check it out &lt;a href=&#34;https://news.mit.edu/2024/study-heavy-snowfall-rain-may-contribute-to-earthquakes-0508&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Paper from Caroline Mouchon featured as an Editor&#39;s Highlight!</title>
