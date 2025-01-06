@@ -5,7 +5,7 @@
     <link>https://eqsci.mit.edu/tecto/author/mathilde-radiguet/</link>
       <atom:link href="https://eqsci.mit.edu/tecto/author/mathilde-radiguet/index.xml" rel="self" type="application/rss+xml" />
     <description>Mathilde Radiguet</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 15 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 28 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eqsci.mit.edu/tecto/images/logo.svg</url>
       <title>Mathilde Radiguet</title>
@@ -13,18 +13,46 @@
     </image>
     
     <item>
-      <title>Interseismic coupling along the Mexican subduction zone seen by InSAR and GNSS</title>
-      <link>https://eqsci.mit.edu/tecto/publication/maubant-2022/</link>
-      <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://eqsci.mit.edu/tecto/publication/maubant-2022/</guid>
+      <title>New paper from Caroline Mouchon</title>
+      <link>https://eqsci.mit.edu/tecto/post/paper_mouchon_jun2023/</link>
+      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/tecto/post/paper_mouchon_jun2023/</guid>
+      <description>
+
+
+&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://eqsci.mit.edu/tecto/author/caroline-mouchon/&#34;&gt;Caroline&lt;/a&gt; has published a new paper that is now available in AGU Advances. Go check it out &lt;a href=&#34;https://eqsci.mit.edu/tecto/publication/mouchon-2023&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Subdaily slow fault slip dynamics captured by low-frequency earthquakes</title>
+      <link>https://eqsci.mit.edu/tecto/publication/mouchon-2023/</link>
+      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/tecto/publication/mouchon-2023/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Independent component analysis and parametric approach for source separation in InSAR time series at regional scale: application to the 2017--2018 Slow Slip Event in Guerrero (Mexico)</title>
-      <link>https://eqsci.mit.edu/tecto/publication/maubant-2020/</link>
-      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://eqsci.mit.edu/tecto/publication/maubant-2020/</guid>
+      <title>Mathilde Radiguet visiting during the spring</title>
+      <link>https://eqsci.mit.edu/tecto/post/visit_radiguet_jan2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/tecto/post/visit_radiguet_jan2023/</guid>
+      <description>
+
+
+&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://eqsci.mit.edu/tecto/author/mathilde-radiguet/&#34;&gt;Mathilde&lt;/a&gt; will be visiting us as Fulbright Fellow and a Visiting Scientist from January until July. We&#39;re excited to have her here!&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Uncovering the geodetic signature of silent slip through repeating earthquakes</title>
+      <link>https://eqsci.mit.edu/tecto/publication/frank-2015-b/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/tecto/publication/frank-2015-b/</guid>
       <description></description>
     </item>
     
